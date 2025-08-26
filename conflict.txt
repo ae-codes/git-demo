@@ -1,1 +1,1 @@
-"Line from main branch" 
+"Resolved line (both sides merged)" 
